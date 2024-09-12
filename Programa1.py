@@ -1,23 +1,5 @@
-'''Aula 9'''
-fraze = str('       A formacão vegetal Brasileira é diversificada.       ')
-#print(fraze.strip())
-#print(fraze.lstrip())
-#print(fraze.rstrip())
-#print(fraze.find('a'))
-#print(fraze.count('a'))
-#print(fraze.lower())
-#print(fraze.upper())
-#print(len(fraze))
-#print('Trabalho' in fraze)
-#print(fraze.replace('formacão', 'Conposição'))
-#print(fraze.split())
-#print('@'.join(fraze))
-#print(fraze.capitalize())
-#print(fraze.title())
-#print(fraze.rfind())
 
 '''Atividade 9:'''
-
 
 #soid = str(input('Digite seu nome:')).strip()
 #print('Seu nome em maiúsculas:{}'.format(soid.upper()))
